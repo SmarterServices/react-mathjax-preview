@@ -14,9 +14,9 @@
     "asciimath",
     "mathml"
   ],
-  "main": "dist/index.js",
+  "main": "index.js",
   "files": [
-    "dist/index.*"
+    "index.*"
   ],
   "peerDependencies": {
     "prop-types": "^15",
